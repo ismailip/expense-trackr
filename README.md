@@ -15,7 +15,7 @@ This is a simple expense tracking React app that allows users to add, view, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker-react-app.git
+   git clone https://github.com/ismailip/expense-trackr.git
    ```
 
 2. Navigate to the project directory:
